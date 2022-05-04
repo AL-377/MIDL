@@ -1,5 +1,5 @@
 # MIDL
-Compile experiment based on MIDL.
+Compiler experiment based on MIDL.
 
 ## Structure
 ### utils
