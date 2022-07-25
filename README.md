@@ -8,18 +8,18 @@ Compiler experiment based on MIDL by Aidan Lew.
 
 #### MIDL -> C++
 - Input the midl file
-- Output the hxx file
--- Process the grammatical -> lexical -> semantic analysis
--- Use the Symbol table to store the message
--- Generate the hxx file
+- Output the hxx file  
+1、Process the grammatical -> lexical -> semantic analysis  
+2、Use the Symbol table to store the message  
+3、Generate the hxx file
 
 #### example
-- MIDL -> AST
--- [midl](https://github.com/AL-377/MIDL/tree/main/txt): see the input.txt , output.txt
-- MIDL -> C++
--- analysis
-<img src="https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/AL-377/MIDL/blob/main/demo/analysis_sample.png" width="200px">
--- [hxx](https://github.com/AL-377/MIDL/tree/main/txt): see the inputLines.txt , outputHxx.txt
+- MIDL -> AST  
+[midl](https://github.com/AL-377/MIDL/tree/main/txt): see the input.txt , output.txt
+- MIDL -> C++  
+analysis
+<img src="https://github.com/AL-377/MIDL/blob/main/demo/analysis_sample.png" width="200px">  
+[hxx](https://github.com/AL-377/MIDL/tree/main/txt): see the inputLines.txt , outputHxx.txt
 
 ## Code Structure
 ### utils
