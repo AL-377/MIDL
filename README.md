@@ -45,8 +45,7 @@ Define the symbol table,the structure is illustrated in the following png.
 #### backGen
 - GenHxx.java: MIDL->Hxx（main entrance）
 - hxxTemplate.stg: define hxx templates files(search **stringTemplate** for more details)
--**msgStructure**
--- define the data structure to store the message from symtable(used to fill the hxx templates) 
+- msgStructure: define the data structure to store the message from symtable(used to fill the hxx templates) 
 
 
 
