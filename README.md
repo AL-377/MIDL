@@ -40,6 +40,7 @@ Define the symbol table,the structure is illustrated in the following png.
 - SymNode.java
 - SymTab.java
 - TestSymTab.java
+ ![Sample](https://github.com/AL-377/MIDL/blob/main/demo/symtab.png)
 
 
 #### backGen
