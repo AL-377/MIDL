@@ -34,7 +34,7 @@ There are some tools I have created to aid the progress.
 <div  align="center">
 <img src="https://github.com/AL-377/MIDL/blob/main/demo/tree_sample.png" height="500px">  
 </div>
-- Tip: The AST format（output of ASTFormat） is like ： root（son1（son11（）...）son2（）...）
+Tip: The AST format（output of ASTFormat） is like ： root（son1（son11（）...）son2（）...）
 
 ### src
 The source files and files for definition.
