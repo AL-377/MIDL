@@ -17,9 +17,11 @@ Compiler experiment based on MIDL by Aidan Lew.
 - MIDL -> AST  
 [midl](https://github.com/AL-377/MIDL/tree/main/txt): see the input.txt , output.txt
 - MIDL -> C++  
-analysis sample: 
-<img src="https://github.com/AL-377/MIDL/blob/main/demo/analysis_sample.png" width="500px" align="center">  
-[hxx](https://github.com/AL-377/MIDL/tree/main/txt): see the inputLines.txt , outputHxx.txt
+[hxx](https://github.com/AL-377/MIDL/tree/main/txt): see the inputLines.txt , outputHxx.txt  
+analysis sample:  
+<div  align="center">
+<img src="https://github.com/AL-377/MIDL/blob/main/demo/analysis_sample.png" width="500px">  
+</div>
 
 ## Code Structure
 ### utils
