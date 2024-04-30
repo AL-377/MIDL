@@ -1,5 +1,6 @@
 # MIDL
 Compiler experiment based on MIDL by Aidan Lew.
+Score: 100
 
 [![Security Status](https://www.murphysec.com/platform3/v3/badge/1618294701598212096.svg?t=1)](https://www.murphysec.com/accept?code=3dd5bf5204ba38f00545a5c2635e8648&type=1&from=2&t=2)
 
